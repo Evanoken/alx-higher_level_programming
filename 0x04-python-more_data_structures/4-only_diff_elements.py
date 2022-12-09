@@ -5,4 +5,3 @@ def only_diff_elements(set_1, set_2):
     You are not allowed to import any module
     """
     return set_1.symmetric_difference(set_2)
-
