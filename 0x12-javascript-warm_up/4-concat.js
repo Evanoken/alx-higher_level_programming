@@ -1,3 +1,2 @@
 #!/usr/bin/node
-const par = "is";
-console.log("c "+ par + " cool");
+console.log(`${process.argv[2]} is ${process.argv[3]}`);
