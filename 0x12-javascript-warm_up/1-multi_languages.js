@@ -1,2 +1,2 @@
 #!/usr/bin/node
-document.write('C is fun' +"<br>"+ 'Python is cool' +"<br>"+ "JavaScript is amazing");
+console.log('C is fun\nPython is cool\nJavaScript is amazing');
